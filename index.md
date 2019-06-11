@@ -12,9 +12,7 @@ contributors:
     bio: My Bio
 ---
 
-
-<iframe src="https://drive.google.com/open?id=1Vm6w4kMwICj621ZCF-wEnGTx49BZKxzm&usp=sharing" frameborder="0" width="100%" height="500">
-</iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Vm6w4kMwICj621ZCF-wEnGTx49BZKxzm" width="640" height="480"></iframe>
 
 
 ### Introduction
