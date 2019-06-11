@@ -4,10 +4,11 @@ excerpt: 'Since the appropriation of the Haitian zonbi into American popular cul
 teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 contributors:
-  - name: George Romero
-    image: https://pbs.twimg.com/profile_images/457000434532483072/LpJVylwE_400x400.jpeg
+  - name: Lance C. Thurner
+    image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Codex_Duran%2C_page_1.jpg/800px-Codex_Duran%2C_page_1.jpg
     bio: Born in the New York City borough of the Bronx. He is the son of Ann (Dvorsky) and George Romero, a commercial artist. His mother was Lithuanian and his father moved from Spain to Cuba as a child.
-    twitter: GeorgeARomeros
+  - name: Bernardino de Sahagún
+    image: https://upload.wikimedia.org/wikipedia/commons/b/bd/Bernardino_de_Sahagun.jpg
 ---
 
 
