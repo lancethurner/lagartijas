@@ -4,12 +4,12 @@ excerpt: 'Since the appropriation of the Haitian zonbi into American popular cul
 teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 contributors:
-  - name: Lance C. Thurner
-    image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Codex_Duran%2C_page_1.jpg/800px-Codex_Duran%2C_page_1.jpg
-    bio: My Bio
   - name: Bernardino de Sahagún
     image: https://upload.wikimedia.org/wikipedia/commons/b/bd/Bernardino_de_Sahagun.jpg
     bio: 16th Century Franciscan Missionary
+  - name: Lance C. Thurner
+    image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Codex_Duran%2C_page_1.jpg/800px-Codex_Duran%2C_page_1.jpg
+    bio: My Bio
 ---
 
 
