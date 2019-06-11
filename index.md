@@ -13,7 +13,7 @@ contributors:
 ---
 
 
-<iframe src="https://s3.amazonaws.com/uploads.knightlab.com/storymapjs/f6f8cf8ab31e9c13b2c05935dda85c7d/ling-9-shuang-and-tiauna/index.html" frameborder="0" width="100%" height="500">
+<iframe src="https://www.wdl.org/en/item/10096/" frameborder="0" width="100%" height="500">
 </iframe>
 
 
